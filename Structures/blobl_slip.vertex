@@ -1,0 +1,10 @@
+# The format is:
+#number_of_blobs
+#position_blob_0 normal_at_blob_0 slip_length_at_blob_0
+#position_blob_1 normal_at_blob_1 slip_length_at_blob_1
+#.
+#.
+#.
+1
+0	0	0	0	0
+
